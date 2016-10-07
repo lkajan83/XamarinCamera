@@ -2,4 +2,6 @@
 <resources>
     <string name="Hello">Hello World, Click Me!</string>
     <string name="ApplicationName">XamarinCamera</string>
+    <string name="openCamera">Open Camera</string>
+    <string name="app_name">CameraAppDemo</string>
 </resources>
